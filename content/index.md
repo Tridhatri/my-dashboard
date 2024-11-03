@@ -1,11 +1,20 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Dashboard
 ---
+This is an attempt to create a [digital garden](https://maggieappleton.com/garden-history) where I can post about my workouts, daily achievements and blogs. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This blog is primarily for learning in public and to track my progress about various things in life.
 
 
-this is sick
+---
+# Content Overview
+## 1. [[Workout Tracker]]
 
-hhhhghghvgvg
+## 2. [[Semester7/Semester 7]]
+
+## 3.[[Skateboarding]]
+
+## 4. [[Blogs]]
+
+## 5.[[Algorithms]]
+
