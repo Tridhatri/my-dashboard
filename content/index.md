@@ -8,8 +8,7 @@ This blog is primarily for learning in public and to track my progress about var
 
 ---
 # Content Overview
-## 1. [[content/Workout Tracker]]
-
+## 1. [[content/Workout Tracker|Workout Tracker]]
 
 ## 2. [[Semester7/Semester 7]]
 
