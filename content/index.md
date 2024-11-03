@@ -30,6 +30,6 @@ This blog is primarily for learning in public and to track my progress about var
 
 ---
 ## TO_DO
-1. [2024-11-03](obsidian://open?vault=my-dashboard&file=2024-11-03)
+1. [[2024-11-03]]
 2. 
 3. 
